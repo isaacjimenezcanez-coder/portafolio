@@ -1,0 +1,165 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portafolioisaac.com" resolutions="1x" timestamp="1779166171235">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="491491813" ref="index"/>
+    <file name="portafolio.css" crc="3932571673" ref="portafolio"/>
+    <file name="contacto.css" crc="3868437973" ref="contacto"/>
+    <file name="nomq_index.css" crc="3938138262" ref="index"/>
+    <file name="nomq_portafolio.css" crc="481293448" ref="portafolio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portafolio:contacto"/>
+    <file name="museutils.js" crc="3939489907" ref="index:portafolio:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portafolio:contacto"/>
+    <file name="museconfig.js" crc="128606099" ref="index:portafolio:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:portafolio:contacto"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:portafolio:contacto"/>
+    <file name="require.js" crc="4177726516" ref="index:portafolio:contacto"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:portafolio"/>
+  </folder>
+  <folder name="images">
+    <file name="botones inicio arriba.png" crc="405926681" ref="portafolio:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="boton portafolio 1.png" crc="503028621" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="boton portafolio 2.png" crc="4136012557" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="boton contacto 1.png" crc="225416665" ref="index:portafolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="boyton abajo incio 1.png" crc="115969892" ref="index:portafolio:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="boton portafolio abajo 1.png" crc="59017963" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="boton abajo contacto 1.png" crc="133761456" ref="index:portafolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="sin título-3_mesa de trabajo 1-crop-u274.jpg" crc="4187638464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u287-6.png" crc="147430939" ref="index"/>
+    <file name="u300-4.png" crc="3860188188" ref="index"/>
+    <file name="botones inicio arribav.png" crc="434567390" ref="portafolio:contacto:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="boton contacto 2-buttonu179-r-fr.png" crc="3838704850" ref="index"/>
+    <file name="boyton abajo incio 2-buttonu188-a-fr.png" crc="3916320923" ref="index"/>
+    <file name="boton portafolio abajo 2-buttonu182-r-fr.png" crc="150574042" ref="index"/>
+    <file name="boton abajo contacto 2-buttonu185-r-fr.png" crc="4096748355" ref="index"/>
+    <file name="u465-4.png" crc="138192926" ref="portafolio"/>
+    <file name="vida ideal 2_mesa de trabajo 1.jpg" crc="165110090" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="violentometro laboral 1234_mesa de trabajo 1.jpg" crc="33521331" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="programado 1.jpg" crc="184222825" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="violentometro laboral 123_mesa de trabajo 1.jpg" crc="4217922835" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="taller 1 (1).jpg" crc="236878273" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="samurai_mesa de trabajo 1 copia.jpg" crc="394789130" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="ad 2_mesa de trabajo 1.jpg" crc="98730098" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="3- credencial horizontal zprofesinales ver 12_mesa de trabajo 1.jpg" crc="253660736" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="lopez sanchez rocio maricela_mesa de trabajo 1.jpg" crc="4192056727" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="fondo de pantalla 1-02.jpg" crc="4108282834" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="u568-4.png" crc="424299555" ref="contacto"/>
+    <file name="red 3.png" crc="46250581" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="red 1.png" crc="818616" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="red 2.png" crc="175332394" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="u571-4.png" crc="4172910178" ref="contacto"/>
+    <file name="u643-4.png" crc="3843980920" ref="contacto"/>
+    <file name="u732-7.png" crc="176883808" ref="index"/>
+    <file name="sin título-3_mesa de trabajo 1-crop-u2742.jpg" crc="4271022516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boton contacto 2-buttonu179-r-fr2.png" crc="3926067550" ref="index:contacto"/>
+    <file name="u287-62.png" crc="3766541332" ref="index"/>
+    <file name="u300-42.png" crc="4092120207" ref="index"/>
+    <file name="u726-7.png" crc="3884494600" ref="index"/>
+    <file name="boyton abajo incio 2-buttonu188-a-fr2.png" crc="125004313" ref="index:contacto"/>
+    <file name="boton portafolio abajo 2-buttonu182-r-fr2.png" crc="335896405" ref="index:contacto"/>
+    <file name="boton abajo contacto 2-buttonu185-r-fr2.png" crc="77574131" ref="index:contacto"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portafolio"/>
+    <file name="boton portafolio abajo 2-buttonu371-fr.png" crc="202227116" ref="portafolio"/>
+    <file name="u465-42.png" crc="3865070504" ref="portafolio"/>
+    <file name="boton portafolio abajo 2-buttonu335-fr.png" crc="150574042" ref="portafolio"/>
+    <file name="boton contacto 2-buttonu336-r-fr.png" crc="3838704850" ref="portafolio"/>
+    <file name="boyton abajo incio 2-buttonu370-r-fr.png" crc="3916320923" ref="portafolio"/>
+    <file name="boton abajo contacto 2-buttonu372-r-fr.png" crc="4096748355" ref="portafolio"/>
+    <file name="boton portafolio abajo 2-buttonu335-fr2.png" crc="335896405" ref="portafolio"/>
+    <file name="boton contacto 2-buttonu336-r-fr2.png" crc="3926067550" ref="portafolio"/>
+    <file name="boyton abajo incio 2-buttonu370-r-fr2.png" crc="125004313" ref="portafolio"/>
+    <file name="boton abajo contacto 2-buttonu372-r-fr2.png" crc="77574131" ref="portafolio"/>
+  </folder>
+  <file name="index.html" crc="290983411" seo="true" mt="1779160849098" redirect="true"/>
+  <file name="portafolio.html" crc="3899253187" seo="true" mt="1779160761635" redirect="true"/>
+  <file name="contacto.html" crc="4004672022" seo="true" mt="1779160652208" redirect="true"/>
+</manifest>
